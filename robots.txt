@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://melisitsolutions.com
+
+# Sitemaps
+Sitemap: https://melisitsolutions.com/sitemap.xml
