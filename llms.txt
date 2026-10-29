@@ -1,0 +1,24 @@
+# Melis IT Solutions
+
+> Melis IT Solutions is a Dutch IT company based in Dongen (Noord-Brabant, Netherlands), active in Tilburg and the wider Noord-Brabant region. It performs penetration tests, security assessments and red teaming, builds secure custom software, and offers custom IT and cybersecurity services. Founder Jeremy Melis is HTB Certified Penetration Testing Specialist (CPTS). The website is available in Dutch (/nl/) and English (/en/).
+
+## Services
+
+- [Pentest (NL)](https://melisitsolutions.com/nl/service/pentest/): penetration tests that simulate realistic attacks on web applications, internal networks and external infrastructure
+- [Pentest (EN)](https://melisitsolutions.com/en/service/pentest/)
+- [Programmeren / Programming](https://melisitsolutions.com/en/service/software-development/): secure, scalable custom software
+- [Maatwerkdiensten / Custom services](https://melisitsolutions.com/en/service/custom-services/): custom IT and cybersecurity services
+- [All services (NL)](https://melisitsolutions.com/nl/service/)
+
+## About
+
+- [Certifications](https://melisitsolutions.com/en/certifications/): HTB CPTS and other certifications
+- [Contact](https://melisitsolutions.com/nl/contact/): contact@melisitsolutions.com
+
+## Blog
+
+- [Blog overview (NL)](https://melisitsolutions.com/nl/blog/)
+- [PHP2Shell: wat betekent dit kritieke PHP-lek voor uw website? (NL)](https://melisitsolutions.com/nl/blog/php2shell/)
+- [Cyberbeveiligingswet artikel 71 & 72 en pentesten (NL)](https://melisitsolutions.com/nl/blog/CBW/)
+- [De beveiligingsvoordelen van statische websites (NL)](https://melisitsolutions.com/nl/blog/Static/)
+- [Reflected XSS gemeente Eindhoven (NL)](https://melisitsolutions.com/nl/blog/XSS_Eindhoven/)
