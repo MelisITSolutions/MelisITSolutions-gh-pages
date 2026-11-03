@@ -18,6 +18,7 @@
 ## Blog
 
 - [Blog overview (NL)](https://melisitsolutions.com/nl/blog/)
+- [Je wachtwoord is zo sterk als je wachtwoordbeleid (NL)](https://melisitsolutions.com/nl/blog/password-policy/)
 - [PHP2Shell: wat betekent dit kritieke PHP-lek voor uw website? (NL)](https://melisitsolutions.com/nl/blog/php2shell/)
 - [Cyberbeveiligingswet artikel 71 & 72 en pentesten (NL)](https://melisitsolutions.com/nl/blog/CBW/)
 - [De beveiligingsvoordelen van statische websites (NL)](https://melisitsolutions.com/nl/blog/Static/)
