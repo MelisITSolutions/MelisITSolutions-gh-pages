@@ -1,6 +1,6 @@
 # Melis IT Solutions
 
-> Melis IT Solutions is a Dutch IT company based in Dongen (Noord-Brabant, Netherlands), active in Tilburg and the wider Noord-Brabant region. It performs penetration tests, security assessments and red teaming, builds secure custom software, and offers custom IT and cybersecurity services. Founder Jeremy Melis is HTB Certified Penetration Testing Specialist (CPTS). The website is available in Dutch (/nl/) and English (/en/).
+> Melis IT Solutions is a Dutch IT company based in Dongen (postal code 5101 BJ, Noord-Brabant, Netherlands), serving Tilburg, Breda, Eindhoven, 's-Hertogenbosch (Den Bosch) and the wider Noord-Brabant region. It performs penetration tests (black box, grey box and white box, following PTES, OWASP WSTG and MITRE ATT&CK, with findings mapped to OWASP Top 10 and CWE and scored with CVSS), security assessments and red teaming, builds secure custom software, and offers custom IT and cybersecurity services. Founder Jeremy Melis is HTB Certified Penetration Testing Specialist (CPTS). The website is available in Dutch (/nl/) and English (/en/).
 
 ## Services
 
