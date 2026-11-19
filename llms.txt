@@ -15,9 +15,17 @@
 - [Certifications](https://melisitsolutions.com/en/certifications/): HTB CPTS and other certifications
 - [Contact](https://melisitsolutions.com/nl/contact/): contact@melisitsolutions.com
 
+## Tools
+
+- [CVSS 3.1 & 4.0 calculator (EN)](https://melisitsolutions.com/en/tools/cvss/): free CVSS v3.1 and v4.0 base score calculator; shareable links like https://melisitsolutions.com/tools/CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+- [CVSS 3.1 & 4.0-calculator (NL)](https://melisitsolutions.com/nl/tools/cvss/)
+- [IT & cybersecurity glossary (EN)](https://melisitsolutions.com/en/tools/glossary/): searchable list of IT and cybersecurity terms (programming language, scripting language, Python, API, DNS, vulnerability, exploit, XSS, hash, encryption, ...) with short explanations and links to in-depth blog chapters
+- [Begrippenlijst IT & cybersecurity (NL)](https://melisitsolutions.com/nl/tools/glossary/)
+
 ## Blog
 
 - [Blog overview (NL)](https://melisitsolutions.com/nl/blog/)
+- [CVSS uitgelegd: hoe ernstig is een kwetsbaarheid? (NL)](https://melisitsolutions.com/nl/blog/cvss/)
 - [Je wachtwoord is zo sterk als je wachtwoordbeleid (NL)](https://melisitsolutions.com/nl/blog/password-policy/)
 - [PHP2Shell: wat betekent dit kritieke PHP-lek voor uw website? (NL)](https://melisitsolutions.com/nl/blog/php2shell/)
 - [Cyberbeveiligingswet artikel 71 & 72 en pentesten (NL)](https://melisitsolutions.com/nl/blog/CBW/)
