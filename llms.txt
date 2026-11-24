@@ -8,6 +8,8 @@
 - [Pentest (EN)](https://melisitsolutions.com/en/service/pentest/)
 - [Programmeren / Programming](https://melisitsolutions.com/en/service/software-development/): secure, scalable custom software
 - [Maatwerkdiensten / Custom services](https://melisitsolutions.com/en/service/custom-services/): custom IT and cybersecurity services
+- [All-Active-IT (NL)](https://melisitsolutions.com/nl/service/all-active-it/): own product, attendance and member management for sports clubs (web, app coming); live from 11 January 2027, https://all-active-it.com/
+- [All-Active-IT (EN)](https://melisitsolutions.com/en/service/all-active-it/)
 - [All services (NL)](https://melisitsolutions.com/nl/service/)
 
 ## About
